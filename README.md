@@ -13,7 +13,7 @@
 ### 🛠 Tech Stack
 
 - Programming Language <b>{ Java, Kotlin, Javascript }</b>
-- Backend <b>{ NodeJS, ExpressJS}</b>
+- Backend <b>{ NodeJS, ExpressJS }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
 - Mobile <b>{ Native Android }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Git }</b>
