@@ -1,4 +1,4 @@
-### Hi there 👋, Atjhoendz here.
+### Hi there 👋, Arif here.
 <!--
 <h3> 👨🏻‍💻 About Me </h3>
 
