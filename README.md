@@ -18,13 +18,11 @@
 - Expertise <b>{ Native Android }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Git }</b>
 
-### Now
+### 💻 Now
 
-Mahasiswa tingkat akhir yang sedang menyusun skripsi topik Information Retrieval
-
-Android developer (Freelance, Self Employed)
-
-Pengurus KKM Developer Community Himatif FMIPA Unpad
+- Mahasiswa tingkat akhir yang sedang menyusun skripsi topik Information Retrieval
+- Android Developer (Freelance, Self Employed)
+- Pengurus KKM Developer Community Himatif FMIPA Unpad
 
 <br/>
 
