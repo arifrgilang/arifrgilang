@@ -1,16 +1,32 @@
-### Hi there 👋
-
+### Hi there 👋, Atjhoendz here.
 <!--
-**arifrgilang/arifrgilang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- Programming Language <b>{ Javascript, PHP, Golang }</b>
 -->
+
+### 🛠 Tech Stack
+
+- Programming Language <b>{ Java, Kotlin, Javascript }</b>
+- Backend <b>{ NodeJS, ExpressJS}</b>
+- Database <b>{ MySQL, MongoDB, Firebase }</b>
+- Mobile <b>{ Native Android }</b>
+- Daily Starter Pack <b>{ Android Studio, VSCode, Git }</b>
+
+### Keep Learn and Explore
+<br/>
+
+[![arifrgilang's github stats](https://github-readme-stats.vercel.app/api?username=arifrgilang&count_private=true&show_icons=true)](https://github.com/arifrgilang)
+
+### Connect with Me
+
+<p align="center">
+  <a target="_blank" href="https://arifrgilang.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-arifrgilang.github.io-blue?style=flat-square&logo=google-chrome"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/arifrgilang"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arif%20R%20Gilang-blue?style=flat-square&logo=linkedin"></a>
+  <a target="_blank" href="mailto:arifrgilang@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arifrgilang@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
