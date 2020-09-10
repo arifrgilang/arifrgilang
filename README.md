@@ -12,13 +12,20 @@
 
 ### 🛠 Tech Stack
 
-- Programming Language <b>{ Java, Kotlin, Javascript }</b>
+- Programming Language <b>{ Java, Kotlin, Javascript, Python }</b>
 - Backend <b>{ NodeJS, ExpressJS }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
-- Mobile <b>{ Native Android }</b>
+- Expertise <b>{ Native Android }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Git }</b>
 
-### Keep Learn and Explore
+### Now
+
+Mahasiswa tingkat akhir yang sedang menyusun skripsi topik Information Retrieval
+
+Android developer (Freelance, Self Employed)
+
+Pengurus KKM Developer Community Himatif FMIPA Unpad
+
 <br/>
 
 [![arifrgilang's github stats](https://github-readme-stats.vercel.app/api?username=arifrgilang&count_private=true&show_icons=true)](https://github.com/arifrgilang)
