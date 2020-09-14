@@ -16,7 +16,7 @@
 - Backend <b>{ NodeJS, ExpressJS }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
 - Expertise <b>{ Native Android }</b>
-- Daily Starter Pack <b>{ Android Studio, VSCode, Git }</b>
+- Daily Starter Pack <b>{ Android Studio, VSCode, Jupyter Lab, Git }</b>
 
 ### 💻 Now
 
