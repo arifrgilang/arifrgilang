@@ -15,14 +15,13 @@
 - Programming Language <b>{ Java, Kotlin, Javascript, Python }</b>
 - Backend <b>{ NodeJS, ExpressJS }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
-- Expertise <b>{ Native Android }</b>
+- Expertise <b>{ Native Android (Kotlin) }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Jupyter Lab, Git }</b>
 
 ### 💻 Now
 
 - Mahasiswa tingkat akhir yang sedang menyusun skripsi topik Information Retrieval
-- Android Developer (Freelance, Self Employed)
-- Pengurus KKM Developer Community Himatif FMIPA Unpad
+- Native Android Developer (Freelance, Self Employed)
 
 <br/>
 
