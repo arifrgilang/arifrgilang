@@ -1,5 +1,5 @@
 ### Hi there 👋, Arif here.
-<!--
+<!--Cancel changes
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -20,7 +20,7 @@
 
 ### 💻 Now
 
-- Mahasiswa tingkat akhir yang sedang menyusun skripsi topik Information Retrieval
+- Fresh graduate, Job seeker
 - Native Android Developer (Freelance, Self Employed)
 
 <br/>
