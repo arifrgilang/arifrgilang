@@ -26,6 +26,7 @@
 <br/>
 
 [![arifrgilang's github stats](https://github-readme-stats.vercel.app/api?username=arifrgilang&count_private=true&show_icons=true)](https://github.com/arifrgilang)
+[![arifrgilang's languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arifrgilang&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6)](https://github.com/arifrgilang)
 
 ### Connect with Me
 
