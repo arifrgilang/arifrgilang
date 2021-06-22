@@ -12,10 +12,9 @@
 
 ### 🛠 Tech Stack
 
-- Programming Language <b>{ Java, Kotlin, Javascript, Python }</b>
-- Backend <b>{ NodeJS, ExpressJS }</b>
+- Programming Language <b>{ Java, Kotlin, JavaScript, TypeScript, Python }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
-- Expertise <b>{ Native Android (Kotlin) }</b>
+- Skills <b>{ Native Android (Kotlin), React.js, Node.js }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Jupyter Lab, Git }</b>
 
 ### 💻 Now
