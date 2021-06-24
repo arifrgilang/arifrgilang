@@ -19,8 +19,7 @@
 
 ### 💻 Now
 
-- Fresh graduate, Job seeker
-- Native Android Developer (Freelance, Self Employed)
+- Freelance software developer
 
 <br/>
 
