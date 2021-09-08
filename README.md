@@ -14,17 +14,12 @@
 
 - Programming Language <b>{ Java, Kotlin, JavaScript, TypeScript, Python }</b>
 - Database <b>{ MySQL, MongoDB, Firebase }</b>
-- Skills <b>{ Native Android (Kotlin), React.js, Node.js }</b>
+- Skills <b>{ Native Android (Kotlin), Node.js }</b>
 - Daily Starter Pack <b>{ Android Studio, VSCode, Jupyter Lab, Git }</b>
 
 ### 💻 Now
 
-- Freelance software developer
-
-<br/>
-
-[![arifrgilang's github stats](https://github-readme-stats.vercel.app/api?username=arifrgilang&count_private=true&show_icons=true)](https://github.com/arifrgilang)
-[![arifrgilang's languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arifrgilang&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6)](https://github.com/arifrgilang)
+- Android Developer
 
 ### Connect with Me
 
