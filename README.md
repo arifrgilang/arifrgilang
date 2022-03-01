@@ -10,13 +10,6 @@
 - Programming Language <b>{ Javascript, PHP, Golang }</b>
 -->
 
-### 🛠 Tech Stack
-
-- Programming Language <b>{ Java, Kotlin, JavaScript, TypeScript, Python }</b>
-- Database <b>{ MySQL, MongoDB, Firebase }</b>
-- Skills <b>{ Native Android (Kotlin), Node.js }</b>
-- Daily Starter Pack <b>{ Android Studio, VSCode, Jupyter Lab, Git }</b>
-
 ### 💻 Now
 
 - Android Developer
